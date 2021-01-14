@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609452242 source:c:\users\mohti\desktop\test\main.cpp
+	<iostream>
+	<vector>
+
+1609939702 source:c:\users\mohti\desktop\quicksort\main.cpp
+	<iostream>
+	<vector>
+
